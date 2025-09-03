@@ -1,4 +1,4 @@
-# StegLock - Secure Image Steganography
+# STEGLock - Secure Image Steganography
 
 StegLock is a Python desktop application that allows you to securely hide (encode) and retrieve (decode) encrypted messages inside images using steganography and password-based encryption. The app features a modern GUI built with CustomTkinter.
 
@@ -56,4 +56,5 @@ Apache 2.0
 
 ## Disclaimer
 This software is provided for educational and research purposes only. The author is not responsible for any improper, illegal, or inappropriate use of this application. Users are solely responsible for complying with all applicable laws and regulations in their jurisdiction.
+
 
