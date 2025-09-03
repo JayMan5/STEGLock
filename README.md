@@ -52,7 +52,8 @@ To create a standalone Windows executable:
 - All encryption is local; no data is sent over the internet.
 
 ## License
-This project is for educational purposes.
+Apache 2.0
 
 ## Disclaimer
 This software is provided for educational and research purposes only. The author is not responsible for any improper, illegal, or inappropriate use of this application. Users are solely responsible for complying with all applicable laws and regulations in their jurisdiction.
+
